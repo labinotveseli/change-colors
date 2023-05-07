@@ -1,2 +1,3 @@
-# change-colors
-React.js App for changing colors and receiving the HEX code
+# Color Changer APP - React JS
+
+<p>This project was bootstrapped with [Create React App]</p>
